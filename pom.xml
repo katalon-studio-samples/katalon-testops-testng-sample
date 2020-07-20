@@ -38,6 +38,7 @@
                         <suiteXmlFile>src/test/resources/calculator-suite.xml</suiteXmlFile>
                         <suiteXmlFile>src/test/resources/calculator-divide-by-zero-suite.xml</suiteXmlFile>
                     </suiteXmlFiles>
+                    <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
             </plugin>
         </plugins>
