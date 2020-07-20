@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Calculator Divide By Zero Suite" parallel="tests">
+    <test name="Calculator Divide By Zero Test">
+        <classes>
+            <class name="CalculatorDivideByZeroTestNGTest"/>
+        </classes>
+    </test>
+</suite>
